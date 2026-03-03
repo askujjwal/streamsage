@@ -1,4 +1,4 @@
-# Netflix GPT
+# StreamSage
 
 - Create React App
 - Configured TailwindCSS 
@@ -59,7 +59,7 @@
         - Title & Description
         - MovieSuggestions
             - MovieLists * N 
-- NetflixGPT
+- StreamSage
     - Search Bar
     - Movie Suggestions
 
